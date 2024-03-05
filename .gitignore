@@ -1,0 +1,8 @@
+data/
+*.jpg
+*.log
+*.pyc
+lightning_logs/
+run_dir/
+splits/
+logs/
